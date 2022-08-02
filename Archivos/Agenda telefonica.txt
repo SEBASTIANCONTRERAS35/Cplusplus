@@ -1,0 +1,10 @@
+	 Agenda telefonica
+Nombre:  BICHOTEE
+Apellido:  BELLAKO
+Telefono:  200999
+Nombre:  Sebastian
+Apellido:  Contreras
+Telefono:  5539818654
+Nombre:  Emilio
+Apellido:  Contreras
+Telefono:  55941685
