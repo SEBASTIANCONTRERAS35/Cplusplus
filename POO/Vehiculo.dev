@@ -1,6 +1,6 @@
 [Project]
-FileName=Sobrecarga de funciones miembro.dev
-Name=Sobrecarga de funciones miembro
+FileName=Vehiculo.dev
+Name=Vehiculo
 Type=1
 Ver=2
 ObjFiles=
@@ -29,7 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=0000000000000000000000000
-UnitCount=2
+UnitCount=3
 
 [VersionInfo]
 Major=1
@@ -51,7 +51,17 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit2]
-FileName=Persona.h
+FileName=Vehiculo.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit3]
+FileName=Vehiculo.cpp
 CompileCpp=1
 Folder=
 Compile=1
@@ -61,7 +71,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit1]
-FileName=mainPersona.cpp
+FileName=mainVehiculo.cpp
 CompileCpp=1
 Folder=
 Compile=1

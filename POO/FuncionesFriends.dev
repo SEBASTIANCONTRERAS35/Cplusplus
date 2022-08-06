@@ -1,6 +1,6 @@
 [Project]
-FileName=Sobrecarga de funciones miembro.dev
-Name=Sobrecarga de funciones miembro
+FileName=FuncionesFriends.dev
+Name=FuncionesFriends
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit2]
-FileName=Persona.h
+FileName=Personaje.h
 CompileCpp=1
 Folder=
 Compile=1
@@ -61,7 +61,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit1]
-FileName=mainPersona.cpp
+FileName=mainFuncionAmiga.cpp
 CompileCpp=1
 Folder=
 Compile=1
